@@ -1,0 +1,15 @@
+/home/Pesdalis/DzC#1/dz/prog2/bin/Debug/net6.0/prog2
+/home/Pesdalis/DzC#1/dz/prog2/bin/Debug/net6.0/prog2.deps.json
+/home/Pesdalis/DzC#1/dz/prog2/bin/Debug/net6.0/prog2.runtimeconfig.json
+/home/Pesdalis/DzC#1/dz/prog2/bin/Debug/net6.0/prog2.dll
+/home/Pesdalis/DzC#1/dz/prog2/bin/Debug/net6.0/ref/prog2.dll
+/home/Pesdalis/DzC#1/dz/prog2/bin/Debug/net6.0/prog2.pdb
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.csproj.AssemblyReference.cache
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.GeneratedMSBuildEditorConfig.editorconfig
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.AssemblyInfoInputs.cache
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.AssemblyInfo.cs
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.csproj.CoreCompileInputs.cache
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.dll
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/ref/prog2.dll
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.pdb
+/home/Pesdalis/DzC#1/dz/prog2/obj/Debug/net6.0/prog2.genruntimeconfig.cache
