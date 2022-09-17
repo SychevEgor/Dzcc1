@@ -1,21 +1,20 @@
 ﻿/*Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 5 -> 2, 4
-8 -> 2, 4, 6, 8*/
+8 -> 2, 4, 6, 8
 Console.Write("ВВедите количество чисел:\t");
-
 int elements = Convert.ToInt32(Console.ReadLine());
-
 int[] array = new int[elements];
 Console.Write($"ВВедите  числа равные :\t{elements}\n");
+     
+    for (int x = 0; x < array.Length; x++)       
+    if (x%2==0)        
+    Console.WriteLine(string.Join(separator,i));    
+    Console.WriteLine(x);*/
 
-for(int i = 0; i < array.Length; i++)
-{
-    array[i] = Convert.ToInt32(Console.ReadLine());
-}
-foreach (int c in array) {
-   if(c %2 ==0)
-    Console.WriteLine($"\nЧетное \nЧисло:    {c}");
-
-else Console.WriteLine($"\nНечетное \nЧисло:     {c}");
-
-}
+    Console.WriteLine("Введите длину: ");
+int n = Convert.ToInt32(Console.ReadLine());
+    
+for (int i = 1; i <= n; i++)
+    if (i % 2 == 0) {
+Console.Write($"{i},");
+    }
